@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PolNun
+- 👀 Right now I’m not sure what I'm interested in.
+- 🌱 I’m currently learning Software Development and Full Stack Web Dev.
+- 💞️ I’m looking to collaborate on anything as long as I'm useful.
+- 📫 How to reach me -> polnunez@outlook.com
