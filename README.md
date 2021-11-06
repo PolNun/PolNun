@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @PolNun
+- 👨‍💻 Java.
 - 🧰 Aspiring BackEnd developer.
 - 🌱 I’m currently learning Software Development.
 - 💞️ Love playing videogames and all about football.
