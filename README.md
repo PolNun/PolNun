@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PolNun
-- 👨‍💻 Java.
-- 🧰 Aspiring BackEnd developer.
+- 👨‍💻 Java, JavaScript.
+- 🧰 BackEnd developer.
 - 🌱 I’m currently learning Software Development.
 - 💞️ Love playing videogames and all about football.
-- 📫 How to reach me -> polnunez@outlook.com
+- 📫 How to reach me -> linkedin.com/in/polnunez
