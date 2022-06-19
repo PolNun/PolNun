@@ -2,5 +2,5 @@
 - 👨‍💻 Java, JavaScript.
 - 🧰 BackEnd developer.
 - 🌱 I’m currently learning Software Development.
-- 💞️ Love playing videogames and all about football.
+- 💞️ Love playing videogames and everything about football.
 - 📫 How to reach me -> linkedin.com/in/polnunez
