@@ -2,4 +2,4 @@
 - 👨‍💻 Java, JavaScript.
 - 🌱 I’m currently learning Software Development.
 - 💞️ Love playing videogames and everything about football.
-- 📫 How to reach me -> linkedin.com/in/polnunez
+- 📫 How to reach me -> https://www.linkedin.com/in/polnunez/
