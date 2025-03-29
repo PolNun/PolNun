@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PolNun
-- 👨‍💻 Java, TypeScript.
+- 👨‍💻 Java, TypeScript, Python.
 - 🌱 I’m a professional software developer.
 - 💞️ Love playing videogames and everything about football.
 - 📫 How to reach me -> https://www.linkedin.com/in/polnunez/
